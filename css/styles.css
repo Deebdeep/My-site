@@ -1,0 +1,153 @@
+.top{
+  background-color: #FBE9C2;
+  margin-bottom: 0;
+  padding-top: 70px;
+
+
+}
+.second{
+  color: black;
+}
+body{
+  margin: 0;
+  text-align: center;
+  font-family: 'Rochester', cursive;
+    background-color: #FBE9C2;
+
+}
+h1
+{
+  margin-top: 0;
+  font-family: 'Sacramento', cursive;
+  font-size: 630%;
+
+}
+h2{
+  font-family: 'Berkshire Swash', cursive;
+  font-size: 25px;
+  color: #FB9300;
+  padding: 10px;
+}
+h3{
+  font-family: 'Berkshire Swash', cursive;
+  font-size: 25px;
+  color: #FB9300;
+}
+
+p{
+  font-size: 20px;
+}
+.mid
+{
+margin: 100px 0;
+}
+.end
+{
+margin: 100px 0;
+}
+.bottom-cloud{
+position: absolute;
+}
+.top-cloud{
+  position: absolute;
+  top:50px;
+  right: 400px;
+}
+.mountain{
+  padding-top: 10px;
+  margin: 0;
+  width: 100%;
+  height: auto;
+
+}
+.skill_picture
+{
+width: 25%;
+float: left;
+margin-right: 30px;
+}
+.skill2_picture
+{
+  max-width: 23%;
+  float: right;
+}
+.main{
+width: 14%;
+}
+hr
+{
+border-style: none;
+border-top-style: dotted;
+border-width: 7px;
+border-color: black;
+width: 8%;
+margin: 100px auto;
+}
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+.intro
+{
+  width: 30%;
+  margin: auto;
+}
+p{
+  line-height: 2;
+}
+.cont
+{
+  width: 40%;
+  margin : 40px auto 60px;
+}
+.btn {
+  background: #ff9100;
+  background-image: -webkit-linear-gradient(top, #ff9100, #a66600);
+  background-image: -moz-linear-gradient(top, #ff9100, #a66600);
+  background-image: -ms-linear-gradient(top, #ff9100, #a66600);
+  background-image: -o-linear-gradient(top, #ff9100, #a66600);
+  background-image: linear-gradient(to bottom, #ff9100, #a66600);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: Arial;
+  color: #080008;
+  font-size: 19px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #ff9829;
+  background-image: -webkit-linear-gradient(top, #ff9829, #ffc885);
+  background-image: -moz-linear-gradient(top, #ff9829, #ffc885);
+  background-image: -ms-linear-gradient(top, #ff9829, #ffc885);
+  background-image: -o-linear-gradient(top, #ff9829, #ffc885);
+  background-image: linear-gradient(to bottom, #ff9829, #ffc885);
+  text-decoration: none;
+}
+.bottom
+{
+  background-color: #ff9829;
+  padding: 50px 0 20px;
+}
+a{
+  color: #a66600;
+font-family: 'Rochester', cursive;
+margin: 10px 20px;
+text-decoration: none;
+padding: 20px 0 10px;
+font-size: 1.2rem;
+
+}
+a:hover
+{
+  color: black;
+}
+.copyright{
+  color: black;
+  font-size: 0.75rem;
+  padding: 20px 0;
+}
